@@ -5,9 +5,9 @@ cd [directory]: Changes the current working directory
 
 pwd : prints the current working directory path
 
-mk dir [directory_name]: creates a new directory
+mk dir [directoryname]: creates a new directory
 
-touch[file_name]:Creates a new, empty file or updates the timestamp of an existing file
+touch[filename]:Creates a new, empty file or updates the timestamp of an existing file
 
 cp[source] [destination]:Copies files or directories. Use the -r option for directories
 
@@ -31,6 +31,7 @@ awk :A powerful language for pattern scanning and text processing
 
 sed:A stream editor for filtering files and transforming text
 
+# GIT Commnads
 
 git int:Start a new repo
 
