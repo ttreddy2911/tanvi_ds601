@@ -1,4 +1,3 @@
-# Linux commands
 
 ls: Lists the contents of a directory.
 
@@ -32,7 +31,6 @@ awk :A powerful language for pattern scanning and text processing
 
 sed:A stream editor for filtering files and transforming text
 
-# GIT Commnads
 
 git int:Start a new repo
 
