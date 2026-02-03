@@ -2,7 +2,11 @@ name: IS601 build file
 
 on:
   push:
+<<<<<<< HEAD
     branches: [main]
+=======
+    branches: [main, module2]
+>>>>>>> 67cc314 (commiting all files)
 
 jobs:
   build:
