@@ -2,7 +2,9 @@ name: IS601 build file
 
 on:
   push:
-    branches: [main, module2]
+    branches:
+      - main
+      - module2
 
 jobs:
   build:
